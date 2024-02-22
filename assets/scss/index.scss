@@ -1,0 +1,21 @@
+//base
+
+@import '../scss/base/color.scss';
+@import '../scss/base/base.scss';
+
+
+//atom
+@import '../scss/atom/button.scss';
+
+//molecule
+
+@import '../scss/molecule/employee.scss';
+@import '../scss/molecule/navbar.scss';
+
+
+//organism
+@import '../scss/organism/employeelist.scss';
+@import '../scss/organism/demo.scss';
+
+
+@import '../scss/style.scss';

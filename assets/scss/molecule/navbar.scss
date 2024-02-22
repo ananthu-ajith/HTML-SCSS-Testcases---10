@@ -1,0 +1,19 @@
+.nav
+{
+    height: auto;
+    width: auto;
+
+    &__nav
+    {
+        display: flex;
+        list-style-type: none;
+    }
+
+    &__li a
+    {
+        text-decoration: none;
+        padding: 5px;
+        color: black;
+    }
+
+}

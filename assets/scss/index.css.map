@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,OACA;EACI,gBAAgB,EAAE,IAAI",
+"sources": ["atom/button.scss"],
+"names": [],
+"file": "index.css"
+}

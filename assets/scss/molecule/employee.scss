@@ -1,0 +1,37 @@
+.empl
+{
+    height: auto;
+    width: 30%;
+    padding: 10px;
+    border: 1px solid rgba(0, 0, 0,0.5);
+
+&__qoutes
+{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-image: url(../../../assets/images/double-quotes.png);
+    background-size: cover;
+    background-position: center;
+}
+
+&__hdn
+{
+    margin: 15px auto;
+    font-weight: lighter;
+}
+
+&__desc
+{
+    color: rgba(0, 0, 0,0.5);
+    margin: 15px auto;
+}
+
+&__dsgn
+{
+    color: rgba(0, 0, 0,0.7);
+
+}
+
+}

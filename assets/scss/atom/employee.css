@@ -1,0 +1,22 @@
+.empl {
+  height: 40vh;
+  width: 28%;
+  padding: 10px; }
+  .empl__qoutes {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    overflow: hidden;
+    background-image: url(../../../assets/images/double-quotes.png);
+    background-size: cover;
+    background-position: center; }
+  .empl__hdn {
+    margin: 15px auto;
+    font-weight: 450; }
+  .empl__desc {
+    color: rgba(0, 0, 0, 0.5);
+    margin: 15px auto; }
+  .empl__dsgn {
+    color: rgba(0, 0, 0, 0.7); }
+
+/*# sourceMappingURL=employee.css.map */
