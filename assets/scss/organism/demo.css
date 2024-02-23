@@ -1,0 +1,188 @@
+.demo {
+  height: auto;
+  width: auto;
+}
+.demo__t {
+  height: auto;
+  width: auto;
+  display: flex;
+}
+.demo__t__l {
+  height: auto;
+  width: auto;
+}
+.demo__t__l__1 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+  margin-left: 0;
+}
+.demo__t__l__1 > input {
+  height: auto;
+  width: 80%;
+  border: 0;
+}
+.demo__t__l__1 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/user.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__t__l__2 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+  margin-left: 0;
+}
+.demo__t__l__2 > input {
+  height: auto;
+  width: 80%;
+  border: 0;
+}
+.demo__t__l__2 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/world.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__t__l__3 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+  margin-left: 0;
+}
+.demo__t__l__3 > input {
+  height: auto;
+  width: 80%;
+  border: 0;
+}
+.demo__t__l__3 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/building.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__t__r {
+  height: auto;
+  width: auto;
+}
+.demo__t__r__1 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+}
+.demo__t__r__1 > input {
+  height: auto;
+  width: 80%;
+  border: 0;
+}
+.demo__t__r__1 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/email.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__t__r__2 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+}
+.demo__t__r__2 > .code {
+  height: 100%;
+  width: 15%;
+  border: 0;
+  border-right: 1px solid rgba(0, 0, 0, 0.5);
+}
+.demo__t__r__2 > .num {
+  height: auto;
+  width: 70%;
+  border: 0;
+}
+.demo__t__r__2 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/phone-call.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__t__r__3 {
+  height: 35px;
+  width: 350px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  align-items: center;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin: 20px;
+}
+.demo__t__r__3 > input {
+  height: auto;
+  width: 80%;
+  border: 0;
+}
+.demo__t__r__3 > div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/usher-man-with-tie.png);
+  background-position: center;
+  background-size: cover;
+}
+.demo__b {
+  height: 70px;
+  width: 740px;
+  margin-right: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  border: 1px solid rgba(0, 0, 0, 0.5);
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 10px;
+}
+.demo__b input {
+  border: 0;
+  height: auto;
+  width: auto;
+}
+.demo__b div {
+  height: 25px;
+  width: 25px;
+  background-image: url(../../../assets/images/usher-man-with-tie.png);
+  background-position: center;
+  background-size: cover;
+}/*# sourceMappingURL=demo.css.map */

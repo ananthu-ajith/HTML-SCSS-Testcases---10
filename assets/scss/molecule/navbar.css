@@ -1,0 +1,13 @@
+.nav {
+  height: auto;
+  width: auto;
+}
+.nav__nav {
+  display: flex;
+  list-style-type: none;
+}
+.nav__li a {
+  text-decoration: none;
+  padding: 5px;
+  color: black;
+}/*# sourceMappingURL=navbar.css.map */
